@@ -7,5 +7,7 @@
             "email": "contact@anthonypelletier.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "silex/silex": "^1.3"
+    }
 }
