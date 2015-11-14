@@ -1,0 +1,11 @@
+{
+    "name": "s3tup90/unicraft-website",
+    "description": "Code source du site www.uni-craft.fr",
+    "authors": [
+        {
+            "name": "S3tup90",
+            "email": "contact@anthonypelletier.fr"
+        }
+    ],
+    "require": {}
+}
